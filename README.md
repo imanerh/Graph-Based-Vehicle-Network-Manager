@@ -27,7 +27,7 @@ Follow the steps below to execute the program:
 
 4. Run the program using the following command:
     ```
-    java Main
+    java classes/Main
     ```
 
 5. The program will start executing, and any output or results will be displayed in the terminal.
