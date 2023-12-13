@@ -1,4 +1,4 @@
-# Vehicle Communication Management System
+# Graph-based Vehicle Network Manager
 
 ## Project Overview
 This project develops a program to manage vehicles equipped with antennas, focusing on communication systems similar to automotive cars. It employs Graphs, particularly the Adjacency List method, for efficient data management and operations.
