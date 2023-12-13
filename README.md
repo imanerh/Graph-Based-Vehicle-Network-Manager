@@ -1,4 +1,15 @@
-# Program Execution Guide
+# Vehicle Communication Management System
+
+## Project Overview
+This project develops a program to manage vehicles equipped with antennas, focusing on communication systems similar to automotive cars. It employs Graphs, particularly the Adjacency List method, for efficient data management and operations.
+
+## Features
+- **Graph Creation**: Reads from a text file to construct a graph with vehicle details, including transmission range and coordinates.
+- **Graph Operations**: Includes displaying edges, listing adjacent vehicles, and updating the graph when vehicles move.
+- **Graph Traversal**: Implements Depth-First Search (DFS), Breadth-First Search (BFS), and Minimum Spanning Tree (MST) using Prim's Algorithm.
+- **Shortest Path**: Find the shortest path between two points.
+
+## Program Execution Guide
 
 To run the program, follow the steps below:
 
@@ -6,7 +17,7 @@ To run the program, follow the steps below:
 2. Extract the contents of the zip folder to a convenient location on your computer.
 3. Open the command-line terminal.
 
-## Execution Steps
+### Execution Steps
 
 Follow the steps below to execute the program:
 
